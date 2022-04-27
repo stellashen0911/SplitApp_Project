@@ -84,13 +84,13 @@ This is an App that helps a group of people to split money more conveniently. It
 * User can enter the activity within a event and how much the activity cost.
 * User can assign which group users need to split money for each activity.
 * User can assign who pays for the activity.
-* ...
+* ... (more to add)
 
 **Optional Nice-to-have Stories**
 
 * User can chat with all members in the event group.
 * User logs in and see the check board for un-paid split events.
-* ...
+* ... (more to add)
 
 ### 2. Screen Archetypes
 
@@ -125,9 +125,6 @@ Optional:
 ## Wireframes
 ![](https://i.imgur.com/6YJk7KH.jpg)
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 [This section will be completed in Unit 9]

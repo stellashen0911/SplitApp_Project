@@ -1,7 +1,6 @@
 # SplitApp Project 
 
-This is a reporsitory to show the development process of the SplitApp. The initial idea of SplitApp came from my real life experience with my roommates.
-I hope SplitApp can bring some conenience to our real life. 
+This is a repository to show the development process of the SplitApp. The initial idea of SplitApp came from my real-life experience with my roommates. I hope SplitApp can bring some convenience to our real life.
 
 If you need to see more details about this project, get the source code, or try to contribute to the SplitApp, please visit https://github.com/SplitAppTeam/Split-App-initial. Thank you~ 
 

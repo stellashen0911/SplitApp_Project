@@ -4,60 +4,12 @@ This is a repository to show the development process of the SplitApp. The initia
 
 If you need to see more details about this project, get the source code, or try to contribute to the SplitApp, please visit https://github.com/SplitAppTeam/Split-App-initial. Thank you~ 
 
-## Week 3
-#### User Stories:
-**Goal**: Keep adding features to the app.
-
-- [x] user can create event
-- [x] user can log in through linked Twitter account
-- [x] show existing events on the event feed view controller
-- [x] Calculating split amount after entering total payment and the number of members
-- [x] AddMember view Controller logics
-- [x] user can see details of the event
-
-#### GIF Walkthrough
-
-![SplitApp-week3](https://i.imgur.com/qooOuXc.gif)
-
-## Week 2
-#### User Stories:
-**Goal**: Keep building the app.
-
-- [x] loginError screen
-- [x] create events screen
-- [x] cancel button in addAnEvent
-- [x] done button in addAnEvent
-- [x] add members
-- [x] create members table in back4app
-- [x] Discuss Paypal API
-
-#### GIF Walkthrough
-
-![SplitApp-week2](https://user-images.githubusercontent.com/75382121/163663752-66601b7b-0cb2-402a-bd73-ba4bfa58c315.gif)
-
-
-## Week 1
-#### User Stories:
-**Goal**: Initialize the project from scratch.
-
-- [x] User sees app icon in home screen and styled launch screen.
-- [x] Set up the sign up and sign in storyboard.
-- [x] User can sign up to create a new account.
-- [x] User can log in.
-- [x] Set up the backend server.
-- [x] design app icons 
-- [x] Add Parse client to an Xcode project
-
-#### GIF Walkthrough
-
-![SplitApp-week1](https://user-images.githubusercontent.com/75382121/162537395-a80f61f6-a1ed-423e-a8bd-9f9c7e090b88.gif)
-
-
 ## Table of Contents
 1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
+2. [Product Spec](#Product-Spec)
+3. [Wireframes](#Wireframes)
+4. [Schema](#Schema)
+5. [Weekly Project Progress](#weekly-project-progress)
 
 ## Overview
 ### Description
@@ -196,3 +148,55 @@ Optional:
 [OPTIONAL: List endpoints using existing Paypal API]
 
 [Paypal In-App iOS Doc](https://developer.paypal.com/sdk/in-app/ios/)
+
+## Weekly Project Progress
+
+## Week 1
+#### User Stories:
+**Goal**: Initialize the project from scratch.
+
+- [x] User sees app icon in home screen and styled launch screen.
+- [x] Set up the sign up and sign in storyboard.
+- [x] User can sign up to create a new account.
+- [x] User can log in.
+- [x] Set up the backend server.
+- [x] design app icons 
+- [x] Add Parse client to an Xcode project
+
+#### GIF Walkthrough
+
+![SplitApp-week1](https://user-images.githubusercontent.com/75382121/162537395-a80f61f6-a1ed-423e-a8bd-9f9c7e090b88.gif)
+
+## Week 2
+#### User Stories:
+**Goal**: Keep building the app.
+
+- [x] loginError screen
+- [x] create events screen
+- [x] cancel button in addAnEvent
+- [x] done button in addAnEvent
+- [x] add members
+- [x] create members table in back4app
+- [x] Discuss Paypal API
+
+#### GIF Walkthrough
+
+![SplitApp-week2](https://user-images.githubusercontent.com/75382121/163663752-66601b7b-0cb2-402a-bd73-ba4bfa58c315.gif)
+
+## Week 3
+#### User Stories:
+**Goal**: Keep adding features to the app.
+
+- [x] user can create event
+- [x] user can log in through linked Twitter account
+- [x] show existing events on the event feed view controller
+- [x] Calculating split amount after entering total payment and the number of members
+- [x] AddMember view Controller logics
+- [x] user can see details of the event
+
+#### GIF Walkthrough
+
+![SplitApp-week3](https://i.imgur.com/qooOuXc.gif)
+
+
+
